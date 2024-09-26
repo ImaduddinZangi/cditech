@@ -1,1 +1,1 @@
-<h1 align=center>Designed by Imaduddin Zangi</h1> 
+<h1 align=center>Designed and Developed by Imaduddin Zangi</h1> 
